@@ -1,2 +1,3 @@
-Profile Test.
-contact : mollangzzang@gmail.com
+I wanna be a developer!!:satisfied:
+
+:mailbox:contact : mollangzzang@gmail.com
